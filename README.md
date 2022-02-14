@@ -11,3 +11,8 @@
 ---------|----------|
  78 | [Subsets](https://leetcode.com/problems/subsets/) |
   90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) |
+
+## Trees
+ S.No | Name |
+---------|----------|
+ 104 | [Depth of Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
