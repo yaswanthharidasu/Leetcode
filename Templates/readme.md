@@ -4,6 +4,8 @@
 
 ## Problem Statement:
 
+## Approach:
+
 ## Solution: 
 ```cpp
 // 

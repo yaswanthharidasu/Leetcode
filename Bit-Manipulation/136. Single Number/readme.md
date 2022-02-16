@@ -1,3 +1,4 @@
+# [136. Single Number](https://leetcode.com/problems/single-number/)
 **Author:** Yaswanth Haridasu <br> 
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Solved on:** 15th February 2022
