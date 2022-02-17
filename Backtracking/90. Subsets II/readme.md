@@ -29,7 +29,7 @@ public:
         result.push_back(curr);
         for(int i=ind; i<nums.size(); i++){
             // As array may contain duplicates, no need to process the same element again
-            if(i>ind && nums[i] == nums[i-1])
+            if(i != ind && nums[i] == nums[i-1])
                 continue;
             // Include the element
             curr.push_back(nums[i]);
