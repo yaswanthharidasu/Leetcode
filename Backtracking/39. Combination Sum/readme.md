@@ -20,12 +20,12 @@ This is similar to Coin Change 2 problem, but instead of no.of combinations, we 
 As the array size and target are small, we can directly use backtracking approach.
 
 **Time Complexity Analysis:** <br>
-We can have **min(target, arr.size())** levels in the recursion tree because the recursion ends if the target < 0 or when we reach the array size.
+We can have **min(target/min(arr), arr.size())** levels in the recursion tree because the recursion ends if the target < 0 or when we reach the array size.
 
 ## Solution 1: 
 ```cpp
 // Backtracking
-// Time: O(2^min(target,arr.size()) * k) 
+// Time: O(2^min(target/min(arr),arr.size()) * k) 
 // k = avg length of curr (To push to result)
 // Space: O(x*k)
 // k = avg length of curr and x = no.of combinations
@@ -68,7 +68,7 @@ public:
 ```
 ## Solution 2: 
 ```cpp
-// Time: O(2^min(target,arr.size()) * k) 
+// Time: O(2^min(target/min(arr),arr.size()) * k) 
 // k = avg length of curr (To push to result)
 // Space: O(x*k)
 // k = avg length of curr and x = no.of combinations
