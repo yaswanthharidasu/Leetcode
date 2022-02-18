@@ -3,8 +3,8 @@
 **Author:** Yaswanth Haridasu <br>
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
-**Last Modified:** 17th February 2022<br>
-**No.of Problems:** 8
+**Last Modified:** 18th February 2022<br>
+**No.of Problems:** 9
 
 
  ## Backtracking
@@ -25,6 +25,12 @@ S.No | Name |
 S.No | Name |
 ---------|----------|
 1\. | [Swap Node in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |
+
+## Stacks
+S.No | Name |
+---------|----------|
+1\. | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) |
+
 
 ## Trees
 S.No | Name |
