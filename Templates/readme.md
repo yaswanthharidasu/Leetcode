@@ -4,6 +4,10 @@
 
 ## Problem Statement:
 
+**Example:** <br>
+**Input:** <br>
+**Output:**
+
 ## Approach:
 
 ## Solution: 

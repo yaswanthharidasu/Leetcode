@@ -3,8 +3,8 @@
 **Author:** Yaswanth Haridasu <br>
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
-**Last Modified:** 18th February 2022<br>
-**No.of Problems:** 9
+**Last Modified:** 20th February 2022<br>
+**No.of Problems:** 10
 
 
  ## Backtracking
@@ -25,6 +25,13 @@ S.No | Name |
 S.No | Name |
 ---------|----------|
 1\. | [Swap Node in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |
+
+
+## Sorting
+S.No | Name |
+---------|----------|
+1\. | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
+
 
 ## Stacks
 S.No | Name |
