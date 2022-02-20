@@ -4,7 +4,7 @@
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
 **Last Modified:** 20th February 2022<br>
-**No.of Problems:** 10
+**No.of Problems:** 11
 
 
  ## Backtracking
@@ -31,6 +31,7 @@ S.No | Name |
 S.No | Name |
 ---------|----------|
 1\. | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
+2\. | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) |
 
 
 ## Stacks
