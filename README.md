@@ -4,7 +4,7 @@
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
 **Last Modified:** 20th February 2022<br>
-**No.of Problems:** 11
+**No.of Problems:** 12
 
 
  ## Backtracking
@@ -26,7 +26,10 @@ S.No | Name |
 ---------|----------|
 1\. | [Swap Node in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 
-
+## Priority Queue
+S.No | Name |
+---------|----------|
+1\. | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) |
 ## Sorting
 S.No | Name |
 ---------|----------|
