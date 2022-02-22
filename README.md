@@ -3,9 +3,13 @@
 **Author:** Yaswanth Haridasu <br>
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
-**Last Modified:** 20th February 2022<br>
-**No.of Problems:** 12
+**Last Modified:** 22nd February 2022<br>
+**No.of Problems:** 13
 
+# Ad Hoc
+S.No | Name |
+---------|----------|
+1\. | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 
  ## Backtracking
 S.No | Name |
