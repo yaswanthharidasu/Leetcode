@@ -4,12 +4,15 @@
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
 **Last Modified:** 22nd February 2022<br>
-**No.of Problems:** 13
+**No.of Problems:** 14
 
 # Ad Hoc
 S.No | Name |
 ---------|----------|
 1\. | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
+2\. | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |
+
+
 
  ## Backtracking
 S.No | Name |
