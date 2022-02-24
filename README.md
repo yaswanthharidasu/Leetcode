@@ -4,14 +4,13 @@
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
 **Last Modified:** 24th February 2022<br>
-**No.of Problems:** 15
+**No.of Problems:** 16
 
 # Ad Hoc
 S.No | Name |
 ---------|----------|
 1\. | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 2\. | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |
-
 
 
  ## Backtracking
@@ -33,6 +32,8 @@ S.No | Name |
 ---------|----------|
 1\. | [Swap Node in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 2\. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
+3\. | [Sort List](https://leetcode.com/problems/sort-list/) |
+
 
 ## Priority Queue
 S.No | Name |
