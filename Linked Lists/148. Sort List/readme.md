@@ -14,40 +14,39 @@ Perform merge sort
 ```cpp
 // Linked List
 // Time: O(nlogn)
-// Space: O(1) + O(n/2) -> Stack space
+// Space: O(1) + O(logn) -> Stack space
 
 class Solution {
 public:
     
-    ListNode* merge(ListNode *list1, ListNode *list2){
+    ListNode* merge(ListNode *left, ListNode *right){
         ListNode *ans = new ListNode(0);
         ListNode *temp = ans;
         
-        while(list1 && list2){
-            if(list1->val < list2->val){
-                temp->next = list1;
-                list1 = list1->next;
+        while(left && right){
+            if(left->val < right->val){
+                temp->next = left;
+                left = left->next;
             }
             else{
-                temp->next = list2;
-                list2 = list2->next;
+                temp->next = right;
+                right = right->next;
             }
             temp = temp->next;
         }
         
         // No need to iterate because we're joining the first element 
         // and remaining elements are linked to it.
-        if(list1){
-            temp->next = list1;
+        if(left){
+            temp->next = left;
         }
         
-        if(list2){
-            temp->next = list2;
+        if(right){
+            temp->next = right;
         }
         
         return ans->next;
     }
-    
 
     // Divide list into two parts
     // 1. Head -> Start to middle
