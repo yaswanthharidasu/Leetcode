@@ -3,8 +3,8 @@
 **Author:** Yaswanth Haridasu <br>
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
-**Last Modified:** 22nd February 2022<br>
-**No.of Problems:** 14
+**Last Modified:** 24th February 2022<br>
+**No.of Problems:** 15
 
 # Ad Hoc
 S.No | Name |
@@ -32,6 +32,7 @@ S.No | Name |
 S.No | Name |
 ---------|----------|
 1\. | [Swap Node in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |
+2\. | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
 
 ## Priority Queue
 S.No | Name |
