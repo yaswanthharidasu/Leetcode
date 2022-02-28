@@ -3,14 +3,15 @@
 **Author:** Yaswanth Haridasu <br>
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
-**Last Modified:** 24th February 2022<br>
-**No.of Problems:** 16
+**Last Modified:** 28th February 2022<br>
+**No.of Problems:** 17
 
 # Ad Hoc
 S.No | Name |
 ---------|----------|
 1\. | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 2\. | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |
+3\. | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |
 
 
  ## Backtracking
