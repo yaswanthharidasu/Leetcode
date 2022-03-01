@@ -3,8 +3,8 @@
 **Author:** Yaswanth Haridasu <br>
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
-**Last Modified:** 28th February 2022<br>
-**No.of Problems:** 17
+**Last Modified:** 1st March 2022<br>
+**No.of Problems:** 18
 
 # Ad Hoc
 S.No | Name |
@@ -27,6 +27,7 @@ S.No | Name |
 S.No | Name |
 ---------|----------|
 1\. | [Single Number](https://leetcode.com/problems/single-number/) |
+2\. | [Counting Bits](https://leetcode.com/problems/counting-bits/) |
 
 ## Linked Lists
 S.No | Name |
