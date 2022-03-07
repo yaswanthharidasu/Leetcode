@@ -4,7 +4,7 @@
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
 **Last Modified:** 7th March 2022<br>
-**No.of Problems:** 20
+**No.of Problems:** 21
 
 # Ad Hoc
 S.No | Name |
@@ -29,6 +29,12 @@ S.No | Name |
 ---------|----------|
 1\. | [Single Number](https://leetcode.com/problems/single-number/) |
 2\. | [Counting Bits](https://leetcode.com/problems/counting-bits/) |
+
+## Dynamic Programming
+S.No | Name |
+---------|----------|
+1\. | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |
+
 
 ## Linked Lists
 S.No | Name |
