@@ -4,7 +4,7 @@
 **Profile:** https://leetcode.com/_Riddler_/ <br>
 **Created on:** 13th February 2022 <br><br>
 **Last Modified:** 7th March 2022<br>
-**No.of Problems:** 19
+**No.of Problems:** 20
 
 # Ad Hoc
 S.No | Name |
@@ -12,6 +12,7 @@ S.No | Name |
 1\. | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 2\. | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |
 3\. | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |
+4\. | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) |
 
 
  ## Backtracking
